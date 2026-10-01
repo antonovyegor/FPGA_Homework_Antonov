@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/anton/project_10/platform/zynq_fsbl/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

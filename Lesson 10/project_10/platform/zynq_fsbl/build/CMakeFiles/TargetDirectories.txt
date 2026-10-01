@@ -1,0 +1,4 @@
+C:/Users/anton/project_10/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Users/anton/project_10/platform/zynq_fsbl/build/CMakeFiles/print_build_info.dir
+C:/Users/anton/project_10/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Users/anton/project_10/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
